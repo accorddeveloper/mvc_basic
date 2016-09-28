@@ -11,6 +11,7 @@ namespace mvc.Controllers
         // GET: Home
         public ActionResult Index()
         {
+			// yeni commit için
             return View();
         }
     }
